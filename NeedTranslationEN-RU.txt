@@ -1,10 +1,11 @@
-```c
-//Hello Dear For-The-King player friend ：)
-//This is 'For the King' strings to be translated, If you want to help me for translation, please translate and email it to zhuzes@gmail.com
-//Thank you very much!
+Hello Dear For-The-King player friend ：)
+If you want to help with 'For the King' localization of your language, please translate following strings and send .txt file to my email: zhuzes@gmail.com. Feel free to contact me for any question.
+Thank you very much!
+
 //All English text url :
 https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/G_english.txt
 https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/P_english.txt
+
 //All Russian text url :
 https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/G_russian.txt
 https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/P_russian.txt
@@ -13,7 +14,7 @@ https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/P_r
 //==============================GAME===============================
 //=================================================================
 
-//2015年10月24日
+//2015.10.24 update
 
 
 "DOTA_Tooltip_ability_F5_00_Description"	   "Attack: <font color='#FF8000'>32 - 37</font>           Attack Type: <font color='#FF8000'>Pierce</font>\nAttack Speed：<font color='#FF8000'>1.1s/time</font>\nAttack Range: <font color='#FF8000'>450/Ranged</font>\n—————————————\nHitpoint: <font color='#FF8000'>500</font>\nArmor：<font color='#FF8000'>1</font>                   Armor Type:<font color='#FF8000'>Light</font>\n—————————————\nAbilities: <font color='#088A29'>Blessing of Feather Crest</font>\n<font color='#FA5858'>Grant a melee ally 100% chance to deal 1.9x critical damage and 10% chance to evade attacks for 5 seconds. CD: 40s</font>  \n—————————————\n<font color='#FFBF00'>Break Through Reward: +8</font>"
@@ -756,6 +757,8 @@ https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/P_r
 //=================================================================
 //==============================P UI===============================
 //=================================================================
+
+//2015.10.25   update
 
 
 "GeneralTittle"                                                    "Recruit Duty General"
