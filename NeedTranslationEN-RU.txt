@@ -1,6 +1,6 @@
 ```c
 //Hello Dear For-The-King player friend ：)
-//If you want to help me for translation, please translate the following word and send Email to me:zhuzes@gmail.com
+//This is 'For the King' strings to be translated, If you want to help me for translation, please translate and email it to zhuzes@gmail.com
 //Thank you very much!
 //All English text url :
 https://raw.githubusercontent.com/wushuangamhc/for-the-king-translate/master/G_english.txt
