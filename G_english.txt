@@ -1690,13 +1690,13 @@
 
 
 	"DOTA_Tooltip_ability_item_armament_16"												"Broadsword"
-	"DOTA_Tooltip_ability_item_armament_16_Description"									"Give bonus damage to all of your units."
+	"DOTA_Tooltip_ability_item_armament_16_Description"									"Give bonus damage to all of your melee units."
 	"DOTA_Tooltip_ability_item_armament_16_attackdamamagepercent"						"%Bonus Damage: "
 	"DOTA_Tooltip_ability_item_armament_16_level2"										"Broadsword"
-	"DOTA_Tooltip_ability_item_armament_16_level2_Description"							"Give bonus damage to all of your units."
+	"DOTA_Tooltip_ability_item_armament_16_level2_Description"							"Give bonus damage to all of your melee units."
 	"DOTA_Tooltip_ability_item_armament_16_level2_attackdamamagepercent"				"%Bonus Damage: "
 	"DOTA_Tooltip_ability_item_armament_16_level3"										"Broadsword"
-	"DOTA_Tooltip_ability_item_armament_16_level3_Description"							"Give bonus damage to all of your units."
+	"DOTA_Tooltip_ability_item_armament_16_level3_Description"							"Give bonus damage to all of your melee units."
 	"DOTA_Tooltip_ability_item_armament_16_level3_attackdamamagepercent"				"%Bonus Damage: "
 	"DOTA_Tooltip_modifier_armament_16_buff"											"Broadsword"
 
@@ -1747,7 +1747,7 @@
     "DOTA_Tooltip_ability_jn_general_1_tooltip_radius"                                    "Radius: "
 
     "DOTA_Tooltip_ability_jn_general_2"                                                    "Courage"
-    "DOTA_Tooltip_ability_jn_general_2_Description"                                        "Get Gonus HP regeneration, and grant bonus attack speed to nearby allies."
+    "DOTA_Tooltip_ability_jn_general_2_Description"                                        "Get bonus HP regeneration, and grant bonus attack speed to nearby allies."
     "DOTA_Tooltip_ability_jn_general_2_healthregen"                                        "Regeneration: "
     "DOTA_Tooltip_ability_jn_general_2_tooltip_attackspeed"                                "%Bonus Attack Speed: "
     "DOTA_Tooltip_ability_jn_general_2_tooltip_radius"                                    "Radius: "
