@@ -1835,8 +1835,13 @@
     "DOTA_Tooltip_ability_D7_11"                                                      "Построить Отмороженного Дебошира"
     "DOTA_Tooltip_ability_D7_11_Description"                                          "Атака: <font color='#FF8000'>62 - 73</font>           Тип Атаки: <font color='#FF8000'>Нормальная</font>\nСкорость атаки: <font color='#FF8000'>1сек./удар</font>\nДальность боя: <font color='#FF8000'>100/Ближняя</font>\n—————————————\nЗдоровье: <font color='#FF8000'>1720</font>\nБроня: <font color='#FF8000'>3</font>                   Тип Защиты: <font color='#FF8000'>Легкая</font>\n—————————————\nСпособности: <font color='#088A29'>Удар Моржа</font>\n<font color='#FA5858'>Дает 30%% шанс убить врага с уровнем здоровья ниже 330.</font>  \n—————————————\n<font color='#FFBF00'>Награда за прохождение портала: +16</font>"
 
+		"DOTA_Tooltip_ability_jn_Q6_00"														"Лунная Глефа"
+		"DOTA_Tooltip_ability_jn_Q6_00_Description"											"Поражает несколько целей. Каждой цели наноситься урона меньше предыдущей."
+		"DOTA_Tooltip_ability_jn_Q6_00_count"												"Кол-во целей: "
+		"DOTA_Tooltip_ability_jn_Q6_00_reducedamage"										"Уменьшение урона за цель: "
+		"DOTA_Tooltip_ability_jn_Q6_00_radius"												"Радиус Атаки: "
 
- "DOTA_Tooltip_ability_jn_Q6_10"                                                        "Лунная Глефа"
+    "DOTA_Tooltip_ability_jn_Q6_10"                                                        "Лунная Глефа"
     "DOTA_Tooltip_ability_jn_Q6_10_Description"                                            "Поражает несколько целей. Каждой цели наноситься урона меньше предыдущей."
     "DOTA_Tooltip_ability_jn_Q6_10_count"                                                "Кол-во целей: "
     "DOTA_Tooltip_ability_jn_Q6_10_reducedamage"                                        "Уменьшение урона за цель: "
