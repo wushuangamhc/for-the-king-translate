@@ -989,6 +989,7 @@
 																
 "DOTA_Tooltip_ability_jn_F5_00"																"Благославление Герба Птицы"
 "DOTA_Tooltip_ability_jn_F5_00_Description"																"Дает Критический удар to союзным войскам."
+"DOTA_Tooltip_ability_jn_F5_00_evasion"				"%Уворот: "
 "DOTA_Tooltip_ability_jn_F5_00_crit"																"%Крит. Урона:"
 "DOTA_Tooltip_ability_jn_F5_00_duration"																"Длительность:"
 "DOTA_Tooltip_modifier_jn_F5_00_buff"																"Благославление Герба Птицы"
