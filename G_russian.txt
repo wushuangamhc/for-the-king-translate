@@ -1862,8 +1862,11 @@
     "DOTA_Tooltip_ability_jn_Q6_20b"                                                    "Страж Темной Луны"
     "DOTA_Tooltip_ability_jn_Q6_20b_Description"                                        "Определенное число статуй Стражей Темной Луны увеличивает характеристики этих юнитов."
     "DOTA_Tooltip_ability_jn_Q6_20b_count"                                                "Число статуй: "
-    "DOTA_Tooltip_ability_jn_Q6_20b_attackdamage"                                        "Доп. Урон: "
-    "DOTA_Tooltip_ability_jn_Q6_20b_armor"                                                "Доп. Броня: "
+    "DOTA_Tooltip_ability_jn_Q6_20b_attackdamage"                                        "Урона: "
+    "DOTA_Tooltip_ability_jn_Q6_20b_armor"                                                "Броня: "
+	"DOTA_Tooltip_ability_jn_Q6_20b_extraattackdamage"									"Доп урон: "
+	"DOTA_Tooltip_ability_jn_Q6_20b_extraarmor"											"Доп брони: "
+	"DOTA_Tooltip_ability_jn_Q6_20b_extracount"											"Предельное кол-во дополнений : "
     "DOTA_Tooltip_modifier_jn_Q6_20b_buff"                                                "Страж Темной Луны"
 
     "DOTA_Tooltip_ability_jn_Q6_21"                                                        "Лунное Затмение"
