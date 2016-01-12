@@ -1959,7 +1959,7 @@
 		"DOTA_Tooltip_modifier_jn_F6_10_buff"												"Crystalline Sentry"
 
 		"DOTA_Tooltip_ability_jn_F6_11"														"Sylphid Wings"
-		"DOTA_Tooltip_ability_jn_F6_11_Description"											"Grant nearby allies 1unstackable damage reduction. Does not effect itself."
+		"DOTA_Tooltip_ability_jn_F6_11_Description"											"Grant nearby allies unstackable damage reduction. Does not effect itself."
 		"DOTA_Tooltip_ability_jn_F6_11_reducedamagepercent"									"%Damage Reduction: "
 		"DOTA_Tooltip_ability_jn_F6_11_radius"												"Area of Effect: "
 		"DOTA_Tooltip_modifier_jn_F6_11_buff"												"Sylphid Wings"
@@ -2044,7 +2044,7 @@
 		"DOTA_Tooltip_modifier_jn_G5_10a_buff"												"Rush"
 
 		"DOTA_Tooltip_ability_jn_G5_10b"													"War Stomp"
-		"DOTA_Tooltip_ability_jn_G5_10b_Description"										"Stomp nearby enemeis, dealing damage and stun."
+		"DOTA_Tooltip_ability_jn_G5_10b_Description"										"Stomp nearby enemies, dealing damage and stun."
 		"DOTA_Tooltip_ability_jn_G5_10b_damage"												"Damage: "
 		"DOTA_Tooltip_ability_jn_G5_10b_stuntime"											"Stun Duration: "
 		"DOTA_Tooltip_ability_jn_G5_10b_radius"												"Radius: "
@@ -2475,7 +2475,7 @@
 		"DOTA_Tooltip_ability_E3_10_Description"                                          "Attack: <font color='#FF8000'>81 - 89</font>           Attack Type: <font color='#FF8000'>Siege</font>\nAttack Speed: <font color='#FF8000'>1.5s/time</font>\nAttack Range: <font color='#FF8000'>128/melee</font>\n—————————————\nHitpoint: <font color='#FF8000'>2200</font>\nArmor: <font color='#FF8000'>4</font>                   Armor Type: <font color='#FF8000'>Medium</font>\n—————————————\nAbilities: <font color='#088A29'>Thick Leather    Chief Majesty</font>\n<font color='#FA5858'>Reduce 22%% Pierce damage.\nGrant 8%% bonus attack  speed and move speed to allies within 700 area.</font>  \n—————————————\n<font color='#FFBF00'>Break Through Reward: +20</font>"
 
 		"DOTA_Tooltip_ability_E3_11"                                                      "Build Wild Claw"
-		"DOTA_Tooltip_ability_E3_11_Description"                                          "Attack: <font color='#FF8000'>51 - 54</font>           Attack Type: <font color='#FF8000'>Normal</font>\nAttack Speed: <font color='#FF8000'>1.1s/time</font>\nAttack Range: <font color='#FF8000'>128/melee</font>\n—————————————\nHitpoint: <font color='#FF8000'>1680</font>\nArmor: <font color='#FF8000'>4</font>                   Armor Type: <font color='#FF8000'>Medium</font>\n—————————————\nAbilities: <font color='#088A29'>Razorclaw    Beast's Heart</font>\n<font color='#FA5858'>10%% Chance to deal 100 extra physical damage to enemies.\nAttack speed increased by 6%% after eawch attack, 120%% at maximum.</font>  \n—————————————\n<font color='#FFBF00'>Break Through Reward: +16</font>"
+		"DOTA_Tooltip_ability_E3_11_Description"                                          "Attack: <font color='#FF8000'>51 - 54</font>           Attack Type: <font color='#FF8000'>Normal</font>\nAttack Speed: <font color='#FF8000'>1.1s/time</font>\nAttack Range: <font color='#FF8000'>128/melee</font>\n—————————————\nHitpoint: <font color='#FF8000'>1680</font>\nArmor: <font color='#FF8000'>4</font>                   Armor Type: <font color='#FF8000'>Medium</font>\n—————————————\nAbilities: <font color='#088A29'>Razorclaw    Beast's Heart</font>\n<font color='#FA5858'>10%% Chance to deal 100 extra physical damage to enemies.\nAttack speed increased by 6%% after each attack, 120%% at maximum.</font>  \n—————————————\n<font color='#FFBF00'>Break Through Reward: +16</font>"
 
 		"DOTA_Tooltip_ability_E6_00"                                                      "Build Drunken Warlord"
 		"DOTA_Tooltip_ability_E6_00_Description"                                          "Attack: <font color='#FF8000'>43 - 58</font>           Attack Type: <font color='#FF8000'>Normal</font>\nAttack Speed: <font color='#FF8000'>1.4s/time</font>\nAttack Range: <font color='#FF8000'>128/melee</font>\n—————————————\nHitpoint: <font color='#FF8000'>1000</font>\nArmor: <font color='#FF8000'>4</font>                   Armor Type: <font color='#FF8000'>Heavy</font>\n—————————————\nAbilities: <font color='#088A29'>Drunken Fist</font>\n<font color='#FA5858'>15%% chance to deal 2.2x critical strike.</font>  \n—————————————\n<font color='#FFBF00'>Break Through Reward: +8</font>"
