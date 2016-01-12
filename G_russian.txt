@@ -1677,10 +1677,10 @@
 	"DOTA_Tooltip_ability_item_armament_13_level3_radius"						"Радиус:"
 	"DOTA_Tooltip_ability_item_armament_13_level3_duration"						"Длительность:"
 
-	"DOTA_Tooltip_ability_item_armament_14"																		"Перчатки Скорости"
+	"DOTA_Tooltip_ability_item_armament_14"																		"Gloves of Haste"
 	"DOTA_Tooltip_ability_item_armament_14_Description"									"Увеличивает скорость атаки указанного юнита."
 	"DOTA_Tooltip_ability_item_armament_14_attackspeed"									"Скорость атаки:"
-	"DOTA_Tooltip_modifier_armament_14_buff"															"Перчатки Скорости"
+	"DOTA_Tooltip_modifier_armament_14_buff"															"Gloves of Haste"
 
 	"DOTA_Tooltip_ability_item_armament_15"																		"Маска Безумия"
 	"DOTA_Tooltip_ability_item_armament_15_Description"									"Увеличивает скорость атаки указанного юнита."
