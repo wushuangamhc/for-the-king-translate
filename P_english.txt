@@ -159,4 +159,6 @@
 		"Ranking_score"																		"Score: "
 		"Ranking_rank"																		"Rank: "
 
+		"SellItemLumberEnough"				"Not enough crystal for sell!"
+		"HaveHEX"				"You already have learned this Sorcery."
 }
