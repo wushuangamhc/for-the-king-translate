@@ -2753,7 +2753,7 @@
 
 
 		"DOTA_Tooltip_ability_banner_haste"												"Summon Haste Totem"
-		"DOTA_Tooltip_ability_banner_haste_Description"									"Summon a hast totem at target location, increase 30%% of enemies' move speed within 1200 radius."
+		"DOTA_Tooltip_ability_banner_haste_Description"									"Summon a haste totem at target location, increase 30%% of enemies' move speed within 1200 radius."
 		"DOTA_Tooltip_ability_banner_haste_Lore"										"Gaster's Mandate of Impetuous Strife."
 		"DOTA_Tooltip_modifier_banner_haste_buff"										"Haste"
 
