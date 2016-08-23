@@ -136,7 +136,7 @@
 		"tip_9"		"Tip: Mercenaries and Arms can be used on allies. Good team work leads to victory."
 		"tip_10"	"Tip: Upgrading God doesn't directly benefit you, but helps your team in long term."
 		"tip_11"	"Tip: It's a good time to keep your soldiers when lane is closer to your side. "
-		"tip_12"	"Tip: Every 10 rounds The King cant get a new ability, click the \"operate king\" button to use abilities."
+		"tip_12"	"Tip: Every 10 rounds The King can get a new ability, click the \"operate king\" button to use abilities."
 		"OnlyCommanderCanTakeArmaments"														"Only Commander Can Carry Arms!"
 		"Creator"																			"Creator"
 		"Mapper"																			"Mapper"
@@ -161,4 +161,9 @@
 
 		"SellItemLumberEnough"				"Not enough crystal for sell!"
 		"HaveHEX"				"You already have learned this Sorcery."
+		"ftk_settings"																		"Setting"
+		"ftk_settings_description"															"Game Setting"
+		"CameraDistance"																	"Camera Distance"
+
+
 }
